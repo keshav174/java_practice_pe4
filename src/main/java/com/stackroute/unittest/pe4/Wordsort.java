@@ -1,7 +1,9 @@
+package com.stackroute.unittest.pe4;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Word_sort {
+public class Wordsort {
     public static String word_sort(String str)
     {
         String [] arr =str.split("[ \n]");

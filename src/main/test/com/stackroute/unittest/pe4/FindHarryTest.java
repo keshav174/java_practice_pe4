@@ -1,9 +1,11 @@
+package com.stackroute.unittest.pe4;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Find_HarryTest {
-    Find_Harry h1=new Find_Harry();
+public class FindHarryTest {
+    FindHarry h1=new FindHarry();
 
     @Test
     public void presenceOfString() {

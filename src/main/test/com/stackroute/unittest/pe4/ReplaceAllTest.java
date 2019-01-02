@@ -1,15 +1,17 @@
+package com.stackroute.unittest.pe4;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Replace_AllTest {
-    Replace_All obj;
+public class ReplaceAllTest {
+    ReplaceAll obj;
 
     @Before
     public void setUp() throws Exception {
-        obj=new Replace_All();
+        obj=new ReplaceAll();
     }
 
     @After

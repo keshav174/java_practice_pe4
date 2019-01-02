@@ -1,4 +1,6 @@
-public class Find_Harry {
+package com.stackroute.unittest.pe4;
+
+public class FindHarry {
 
         public boolean presenceOfString(String input) {
 

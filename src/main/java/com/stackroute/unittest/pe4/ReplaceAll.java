@@ -1,6 +1,8 @@
+package com.stackroute.unittest.pe4;
+
 import java.util.Scanner;
 
-public class Replace_All {
+public class ReplaceAll {
     public static String replace(String str)
     {
          String str1=str.replaceAll("d","f");

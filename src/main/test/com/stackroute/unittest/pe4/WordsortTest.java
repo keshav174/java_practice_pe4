@@ -1,15 +1,17 @@
+package com.stackroute.unittest.pe4;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Word_sortTest {
-    Word_sort obj;
+public class WordsortTest {
+    Wordsort obj;
 
     @Before
     public void setUp() throws Exception {
-        obj=new Word_sort();
+        obj=new Wordsort();
     }
 
     @After
